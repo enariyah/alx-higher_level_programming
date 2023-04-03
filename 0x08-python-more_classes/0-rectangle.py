@@ -1,8 +1,8 @@
-#!/usr/bin/pyhton3
-
-""" creating class Rectangle """
+#!/usr/bin/python3
+""" representation of rectangle class """
 
 
 class Rectangle:
-    """ representation of the rectangle class """
+    """ An empty Rectangle class """
+
     pass
