@@ -4,4 +4,5 @@
 
 
 class Rectangle:
+    """ representation of the rectangle class """
     pass
