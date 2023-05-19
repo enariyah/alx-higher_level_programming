@@ -1,4 +1,4 @@
--- script displays max tmp of each state
+-- script displays max tmp of each state desc
 SELECT `city`, AVG(`value`) AS `avg_temp`
 FROM `temperatures`
 WHERE `month` = 7 OR `month` = 8
